@@ -1,5 +1,4 @@
 #!/bin/bash
-Architecture
 
 if [ $# -lt 1 ]
 then
